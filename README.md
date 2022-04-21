@@ -1,2 +1,4 @@
-# carrefourWebDeveloper-rep1
-Primeiro Repositorio Bootcamp Carrefour Web Developer
+# Desafio de Projeto 
+
+Primeiro repositório para desafio de Projeto sobre Git/GitHub da Dio no Bootcamp Carrefour Web Developer.
+
